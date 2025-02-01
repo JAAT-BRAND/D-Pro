@@ -30,5 +30,5 @@ After that, use it as:
 #### Any kind of suggestions are Welcomed
 
 ## Screenshot
-<img src="https://k.top4top.io/p_2596jtgt55.jpg" alt="D-Pro Video Downloader">
+<img src=". ">
 
