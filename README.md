@@ -51,5 +51,5 @@ After that, use it as:
 #### Any kind of suggestions are Welcomed
 
 ## Screenshot
-<img src=". ">
+<img src="https://i.ibb.co/Kzp7PWvm/Screenshot-20250201-120416-Termux.jpg ">
 
